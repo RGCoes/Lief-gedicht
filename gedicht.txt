@@ -13,6 +13,8 @@ en hier nog een commit op de eerste vertakking.
 
 na deze laatste commit op deze branch ga ik hem pullen naar de master branch. Ik ben hier zeker over.
 
+Dit is een commit op de tweede branch nadat hij de master is gemerged met de eerste vertakking en dat de master verdere commits heeft gehad. dadelijk ff naar network kijken.
+
 
 
 

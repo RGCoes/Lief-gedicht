@@ -1,7 +1,4 @@
-Darkness beneath the dying stars
-with all the blood and scars
-my love will hunt you
-with fear i appear.
+Hier is de eerste vertakking met aanpassing van het gedicht. Dit is voor als ik niet zeker weet of ik hier mee door wil gaan.
 
 You're trying to sell wolf tickets to the lion of the jungle
 I'm the eyes of god
@@ -12,6 +9,9 @@ We live by the assasin's creed
 slash and you bleed
 we live in the cut.
 
+en hier nog een commit op de eerste vertakking.
+
+na deze laatste commit op deze branch ga ik hem pullen naar de master branch. Ik ben hier zeker over.
 
 
 

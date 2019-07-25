@@ -11,6 +11,8 @@ we live in the cut.
 
 en hier nog een commit op de eerste vertakking.
 
+na deze laatste commit op deze branch ga ik hem pullen naar de master branch. Ik ben hier zeker over.
+
 
 
 
